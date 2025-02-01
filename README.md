@@ -52,7 +52,5 @@ The Jupyter Notebook in this repository includes the following steps:
    - Summarizing key findings from the dataset.
    - Discussing potential next steps for model development.
 
-This repository serves as a foundational step for further AI/ML applications in fashion technology. Feel free to explore and contribute! 🚀
-
 
 
