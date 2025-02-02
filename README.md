@@ -13,7 +13,7 @@
 
 
 ## Motivation
-The fashion industry is a rapidly growing sector where visual representation of products plays a crucial role in consumer decision-making. We chose this dataset because it contains a diverse set of fashion product images along with their attributes, making it useful for various applications such as image classification, recommendation systems, and visual search. This dataset is valuable for research and development in AI-driven fashion solutions, including product tagging and automated inventory management.
+The fashion industry is a rapidly growing sector where visual representation of products plays a crucial role in consumer decision-making. We chose this dataset because it contains a diverse set of fashion product images along with their attributes, making it useful for various applications such as image classification, recommendation systems, and visual search. This dataset is valuable for research and development in AI-driven fashion solutions.
 
 ## Dataset Overview
 The Fashion Product Images Dataset consists of images of fashion products with metadata, including product categories, gender specifications, and other attributes. The dataset is useful for training machine learning models for fashion item classification and recommendation systems.
@@ -33,7 +33,7 @@ The Jupyter Notebook in this repository includes the following steps:
 
 1. **Data Loading & Exploration**:
    - Importing the dataset and examining its structure.
-   - Checking the distribution of categories, subcategories, and labels.
+   - Checking the distribution of categories, subcategories, labels and gender.
 
 2. **Data Visualization**:
    - Displaying sample images from the dataset.
