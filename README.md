@@ -22,7 +22,7 @@ The Fashion Product Images Dataset consists of images of fashion products with m
 - **Product Images**: A large collection of fashion product images.
 - **Metadata**: Each image is labeled with attributes such as category, sub-category, gender, season, and usage.
 - **Structured Data**: Includes CSV files containing image paths and their corresponding metadata.
-- **Potential Use Cases**: Image classification, abd recommendation systems.
+- **Potential Use Cases**: Image classification, and recommendation systems.
 
 ## Dataset Source
 The dataset is available on Kaggle:
